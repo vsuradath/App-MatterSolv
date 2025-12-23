@@ -1,0 +1,8 @@
+{
+  "name": "App : MatterSolv",
+  "description": "An all-in-one Law Firm Management platform designed for modern legal professionals, featuring case management, time tracking, billing, and advanced analytics with a smart, clean, and easy UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
